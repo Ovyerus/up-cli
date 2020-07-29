@@ -1,0 +1,13 @@
+{
+  "name": "up-cli",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "up": "index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "got": "^11.5.1"
+  }
+}
